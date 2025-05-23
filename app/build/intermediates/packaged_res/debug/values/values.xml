@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#00ff00</color>
+    <color name="ic_launcher_background">#3D62DC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="analyze">Analyze</string>
+    <string name="app_name">Asclepius</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="cancer_detected">Penyakit kanker terdeteksi dengan confidence score: %1.2f</string>
+    <string name="gallery">Galeri</string>
+    <string name="image_classifier_failed">Klasifikasi gambar gagal</string>
+    <string name="no_cancer_detected">Tidak ada penyakit kanker terdeteksi dengan confidence score: %1.2f</string>
+    <string name="no_result">Tidak ada hasil</string>
+    <string name="no_results">Tidak ada hasil klasifikasi</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="result_text">Prediction: %1$s\nConfidence: %.2f%%</string>
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius"/>
+</resources>

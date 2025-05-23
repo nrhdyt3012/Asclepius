@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color green
+color ic_launcher_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_place_holder
+id analyzeButton
+id galleryButton
+id previewImageView
+id progressIndicator
+id result_image
+id result_text
+layout activity_main
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string analyze
+string app_name
+string camera
+string camera_x
+string cancer_detected
+string gallery
+string image_classifier_failed
+string no_cancer_detected
+string no_result
+string no_results
+string result
+string result_text
+style Base.Theme.Asclepius
+style Theme.Asclepius
+xml backup_rules
+xml data_extraction_rules
