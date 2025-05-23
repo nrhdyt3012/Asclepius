@@ -4,8 +4,8 @@ Asclepius adalah sebuah aplikasi Android yang didesain untuk melakukan analisis 
 
 
 ## View APK 
-[View1](https://github.com/nrhdyt3012/Asclepius/blob/main/Screenshot_20250523_082441_Screenshot_20250523_082846_Screenshot_20250523_083046.jpeg)
-[View1](https://github.com/nrhdyt3012/Asclepius/blob/main/Screenshot_20250523_083112_Screenshot_20250523_083133_Screenshot_20250523_083206.jpeg)
+![View1](https://github.com/nrhdyt3012/Asclepius/blob/main/Screenshot_20250523_082441_Screenshot_20250523_082846_Screenshot_20250523_083046.jpeg)
+![View1](https://github.com/nrhdyt3012/Asclepius/blob/main/Screenshot_20250523_083112_Screenshot_20250523_083133_Screenshot_20250523_083206.jpeg)
 ## Fitur Utama
 
 - Mengambil gambar dari galeri atau kamera.
